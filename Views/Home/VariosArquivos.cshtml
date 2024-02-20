@@ -1,0 +1,38 @@
+@model VariosArquivosModel
+
+@{
+    ViewData["Title"] = "Carregamento de vários arquivos";
+
+}
+<form asp-action="VariosArquivos" asp-controller="Home" method="post" enctype="multipart/form-data">
+    @if (Model.Resposta)
+    {
+        if (Model.Sucesso)
+        {
+            <div class="alert alert-success">
+                @Model.Mensagem
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-danger">
+                @Model.Mensagem
+            </div>
+        }
+    }
+
+    <div class="row mt-2">
+        <div class="col-12">
+            <label class="col-form-label">Select Multiple Files</label>
+            <input asp-for="Arquivo" class="form-control" multiple/>
+            <span asp-validation-for="Arquivo" class="text-danger"></span>
+        </div>
+    </div>
+
+
+    <div class="row mt-2">
+        <div class="col-12">
+            <button type="submit" class="btn btn-success">Upload arquivos</button>
+        </div>
+    </div>
+</form>

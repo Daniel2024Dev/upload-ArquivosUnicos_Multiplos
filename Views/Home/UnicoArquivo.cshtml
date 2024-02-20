@@ -1,0 +1,45 @@
+@model UnicoArquivoModels
+
+@{
+    ViewData["Title"] = "Carregamento de arquivo único";
+
+}
+<form asp-action="UnicoArquivo" asp-controller="Home" method="post" enctype = "multipart/form-data">
+    @if (Model.Resposta)
+    {
+        if (Model.Sucesso)
+        {
+            <div class="alert alert-success">
+                @Model.Mensagem
+            </div>
+        }
+        else
+        {
+            <div class="alert alert-danger">
+                @Model.Mensagem
+            </div>
+        }
+    }
+    <div class="row mt-2">
+        <div class="col-12">
+            <label class="col-form-label">Digite o nome do arquivo para salvar</label>
+            <input asp-for="ArquivoNome" class="form-control" />
+            <span asp-validation-for="ArquivoNome" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="row mt-2">
+        <div class="col-12">
+            <label class="col-form-label">Selecione o arquivo</label>
+            <input asp-for="Arquivo" class="form-control" />
+            <span asp-validation-for="Arquivo" class="text-danger"></span>
+        </div>
+    </div>
+
+
+    <div class="row mt-2">
+        <div class="col-12">
+            <button type="submit" class="btn btn-success">Upload arquivo</button>
+        </div>
+    </div>
+</form>

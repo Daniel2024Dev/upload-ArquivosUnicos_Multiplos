@@ -1,0 +1,78 @@
+/home/daniel/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/appsettings.Development.json
+/home/daniel/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/appsettings.json
+/home/daniel/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.staticwebassets.runtime.json
+/home/daniel/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos
+/home/daniel/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.deps.json
+/home/daniel/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.runtimeconfig.json
+/home/daniel/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/ref/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.pdb
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.csproj.AssemblyReference.cache
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.AssemblyInfoInputs.cache
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.AssemblyInfo.cs
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.csproj.CoreCompileInputs.cache
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.MvcApplicationPartsAssemblyInfo.cache
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.RazorAssemblyInfo.cache
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.RazorAssemblyInfo.cs
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/staticwebassets.build.json
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/staticwebassets.development.json
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/scopedcss/bundle/CarregarArquivosUnicos_Multiplos.styles.css
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/scopedcss/projectbundle/CarregarArquivosUnicos_Multiplos.bundle.scp.css
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/ref/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.pdb
+/home/daniel/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.genruntimeconfig.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/appsettings.Development.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/appsettings.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.staticwebassets.runtime.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.deps.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.runtimeconfig.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/ref/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.pdb
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.csproj.AssemblyReference.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.AssemblyInfoInputs.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.AssemblyInfo.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.csproj.CoreCompileInputs.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.MvcApplicationPartsAssemblyInfo.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.RazorAssemblyInfo.cache
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.RazorAssemblyInfo.cs
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/staticwebassets.build.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/staticwebassets.development.json
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/scopedcss/bundle/CarregarArquivosUnicos_Multiplos.styles.css
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/scopedcss/projectbundle/CarregarArquivosUnicos_Multiplos.bundle.scp.css
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/ref/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.pdb
+/home/daniel/Área de Trabalho/code examples/codigos/exemplos de codigos no mvc/CarregarArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.genruntimeconfig.cache
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/bin/Debug/net6.0/appsettings.Development.json
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/bin/Debug/net6.0/appsettings.json
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.staticwebassets.runtime.json
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.deps.json
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.runtimeconfig.json
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/bin/Debug/net6.0/ref/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/bin/Debug/net6.0/CarregarArquivosUnicos_Multiplos.pdb
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.csproj.AssemblyReference.cache
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.AssemblyInfoInputs.cache
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.AssemblyInfo.cs
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.csproj.CoreCompileInputs.cache
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.MvcApplicationPartsAssemblyInfo.cache
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.RazorAssemblyInfo.cache
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.RazorAssemblyInfo.cs
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/staticwebassets.build.json
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/staticwebassets.development.json
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/scopedcss/bundle/CarregarArquivosUnicos_Multiplos.styles.css
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/scopedcss/projectbundle/CarregarArquivosUnicos_Multiplos.bundle.scp.css
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/ref/CarregarArquivosUnicos_Multiplos.dll
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.pdb
+/home/daniel/MeusProjetos/upload-ArquivosUnicos_Multiplos/obj/Debug/net6.0/CarregarArquivosUnicos_Multiplos.genruntimeconfig.cache
